@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad44bdee-aa2c-49af-9c30-7e4fb0256f69" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pO11Ss20t2rOtua2CECcCDIK83" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="腾讯.Q4_18" />
+      <recent name="huawei" />
+      <recent name="MEITUAN" />
+      <recent name="华为笔试题.真题3_31" />
+      <recent name="ALI" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/华为笔试题" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AplusB2">
+    <configuration name="AplusB2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="输入输出练习.AplusB2" />
+      <module name="NowCoder笔试题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="输入输出练习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="蔚来.Q1" />
+      <module name="NowCoder笔试题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="蔚来.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="虾皮笔试.Q3" />
+      <module name="NowCoder笔试题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="虾皮笔试.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="蔚来.Q4" />
+      <module name="NowCoder笔试题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="蔚来.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="蔚来.Q5" />
+      <module name="NowCoder笔试题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="蔚来.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AplusB2" />
+        <item itemvalue="Application.Q3 (1)" />
+        <item itemvalue="Application.Q1" />
+        <item itemvalue="Application.Q5" />
+        <item itemvalue="Application.Q4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad44bdee-aa2c-49af-9c30-7e4fb0256f69" name="Default Changelist" comment="" />
+      <created>1615039107821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615039107821</updated>
+      <workItem from="1615039110830" duration="706000" />
+      <workItem from="1615166178318" duration="9386000" />
+      <workItem from="1615212833497" duration="13459000" />
+      <workItem from="1615465793685" duration="15566000" />
+      <workItem from="1615622646114" duration="12748000" />
+      <workItem from="1615813416077" duration="992000" />
+      <workItem from="1616065343706" duration="4743000" />
+      <workItem from="1616072529137" duration="280000" />
+      <workItem from="1616151600117" duration="13419000" />
+      <workItem from="1616397372299" duration="8919000" />
+      <workItem from="1616833365259" duration="5289000" />
+      <workItem from="1617106866942" duration="1997000" />
+      <workItem from="1617187905056" duration="10482000" />
+      <workItem from="1617501903630" duration="10774000" />
+      <workItem from="1617534249926" duration="6221000" />
+      <workItem from="1617708706368" duration="15000" />
+      <workItem from="1617762637144" duration="11843000" />
+      <workItem from="1617951805788" duration="4249000" />
+      <workItem from="1617972130005" duration="158000" />
+      <workItem from="1618055444430" duration="4107000" />
+      <workItem from="1618276435173" duration="3484000" />
+      <workItem from="1618398572611" duration="4647000" />
+      <workItem from="1618748233089" duration="4697000" />
+      <workItem from="1618882493598" duration="607000" />
+      <workItem from="1626601406186" duration="5404000" />
+      <workItem from="1626677347014" duration="1922000" />
+      <workItem from="1627176569367" duration="755000" />
+      <workItem from="1627210937989" duration="451000" />
+      <workItem from="1627292725045" duration="129000" />
+      <workItem from="1628390714344" duration="669000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="185" key="GridCell.Tab.0.bottom" timestamp="1626877630894">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1238" height="321" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1618795769949" />
+    <state width="1878" height="328" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1618401363560" />
+    <state width="1398" height="185" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1626877630894" />
+    <state width="1238" height="89" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1618749519947" />
+    <state width="1473" height="20" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1618582039094" />
+    <state width="1398" height="185" key="GridCell.Tab.0.center" timestamp="1626877630890">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1238" height="321" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1618795769948" />
+    <state width="1878" height="328" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1618401363558" />
+    <state width="1398" height="185" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1626877630890" />
+    <state width="1238" height="89" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1618749519946" />
+    <state width="1473" height="20" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1618582039094" />
+    <state width="1398" height="185" key="GridCell.Tab.0.left" timestamp="1626877630889">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="408" key="GridCell.Tab.0.left/0.0.1280.752@0.0.1280.800" timestamp="1618582039106" />
+    <state width="1238" height="321" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1618795769948" />
+    <state width="1878" height="328" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1618401363558" />
+    <state width="1398" height="185" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1626877630889" />
+    <state width="1238" height="89" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1618749519945" />
+    <state width="1473" height="20" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1618582039093" />
+    <state width="1398" height="185" key="GridCell.Tab.0.right" timestamp="1626877630892">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1238" height="321" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1618795769949" />
+    <state width="1878" height="328" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1618401363559" />
+    <state width="1398" height="185" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1626877630892" />
+    <state width="1238" height="89" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1618749519946" />
+    <state width="1473" height="20" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1618582039094" />
+    <state width="1238" height="321" key="GridCell.Tab.1.bottom" timestamp="1618795769951">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="321" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1618795769951" />
+    <state width="1878" height="408" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1618399538721" />
+    <state width="1238" height="89" key="GridCell.Tab.1.bottom/0.23.1280.728@0.23.1280.728" timestamp="1618749519949" />
+    <state width="1238" height="321" key="GridCell.Tab.1.center" timestamp="1618795769950">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="321" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1618795769950" />
+    <state width="1878" height="408" key="GridCell.Tab.1.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1618399538719" />
+    <state width="1238" height="89" key="GridCell.Tab.1.center/0.23.1280.728@0.23.1280.728" timestamp="1618749519948" />
+    <state width="1238" height="321" key="GridCell.Tab.1.left" timestamp="1618795769950">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="321" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1618795769950" />
+    <state width="1878" height="408" key="GridCell.Tab.1.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1618399538718" />
+    <state width="1238" height="89" key="GridCell.Tab.1.left/0.23.1280.728@0.23.1280.728" timestamp="1618749519948" />
+    <state width="1238" height="321" key="GridCell.Tab.1.right" timestamp="1618795769951">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="321" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1618795769951" />
+    <state width="1878" height="408" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1618399538720" />
+    <state width="1238" height="89" key="GridCell.Tab.1.right/0.23.1280.728@0.23.1280.728" timestamp="1618749519949" />
+    <state width="1238" height="321" key="GridCell.Tab.2.bottom" timestamp="1618795769953">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="321" key="GridCell.Tab.2.bottom/0.0.1280.800@0.0.1280.800" timestamp="1618795769953" />
+    <state width="1878" height="408" key="GridCell.Tab.2.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1618399538726" />
+    <state width="1238" height="89" key="GridCell.Tab.2.bottom/0.23.1280.728@0.23.1280.728" timestamp="1618749519951" />
+    <state width="1238" height="321" key="GridCell.Tab.2.center" timestamp="1618795769952">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="321" key="GridCell.Tab.2.center/0.0.1280.800@0.0.1280.800" timestamp="1618795769952" />
+    <state width="1878" height="408" key="GridCell.Tab.2.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1618399538724" />
+    <state width="1238" height="89" key="GridCell.Tab.2.center/0.23.1280.728@0.23.1280.728" timestamp="1618749519950" />
+    <state width="1238" height="321" key="GridCell.Tab.2.left" timestamp="1618795769951">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="321" key="GridCell.Tab.2.left/0.0.1280.800@0.0.1280.800" timestamp="1618795769951" />
+    <state width="1878" height="408" key="GridCell.Tab.2.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1618399538723" />
+    <state width="1238" height="89" key="GridCell.Tab.2.left/0.23.1280.728@0.23.1280.728" timestamp="1618749519950" />
+    <state width="1238" height="321" key="GridCell.Tab.2.right" timestamp="1618795769952">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="321" key="GridCell.Tab.2.right/0.0.1280.800@0.0.1280.800" timestamp="1618795769952" />
+    <state width="1878" height="408" key="GridCell.Tab.2.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1618399538725" />
+    <state width="1238" height="89" key="GridCell.Tab.2.right/0.23.1280.728@0.23.1280.728" timestamp="1618749519950" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1626877517494">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1626877517494" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Q携程计算器.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Q携程计算器.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Q携程计算器.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MicroSoft/Q字符串旋转.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/yuanfudao/Q2.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MEITUAN/Q3.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/蔚来/Q3.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NowCoder$Q1.ic" NAME="Q1 Coverage Results" MODIFIED="1617503707931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>MEITUAN.*</FILTER>
+    </SUITE>
+  </component>
+</project>
