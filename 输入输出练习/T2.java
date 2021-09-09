@@ -21,9 +21,9 @@ https://ac.nowcoder.com/acm/contest/5657#question
 示例1
 输入
 5
-c d a bb e
+c d 春招实习.a bb e
 输出
-a bb c d e
+春招实习.a bb c d e
  */
 public class T2 {
 

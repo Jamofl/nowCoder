@@ -8,7 +8,7 @@ import java.util.*;
 https://ac.nowcoder.com/acm/contest/5657#question
 
 输入描述:
-输入包括两个正整数a,b(1 <= a, b <= 10^9),输入数据包括多组。
+输入包括两个正整数a,b(1 <= 春招实习.a, b <= 10^9),输入数据包括多组。
 
 输出描述:
 输出a + b的结果

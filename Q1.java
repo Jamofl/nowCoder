@@ -51,9 +51,10 @@ public class Q1 {
 
 
     public static void main(String[] args){
-        Q1 q1 = new Q1();
-        q1.convert("(+23)");
-        int r = q1.eval();
-        System.out.println(r);
-    }
+//        Q1 q1 = new Q1();
+//        q1.convert("(+23)");
+//        int r = q1.eval();
+//        System.out.println(r);
+     }
+
 }
